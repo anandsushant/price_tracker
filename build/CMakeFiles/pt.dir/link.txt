@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/pt.dir/src/listener/client.cpp.o CMakeFiles/pt.dir/src/main.cpp.o CMakeFiles/pt.dir/src/tracker/track.cpp.o -o pt 

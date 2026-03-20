@@ -1,4 +1,0 @@
-/home/sushant/main/project/price_tracker/build/CMakeFiles/pt.dir
-/home/sushant/main/project/price_tracker/build/CMakeFiles/send.dir
-/home/sushant/main/project/price_tracker/build/CMakeFiles/edit_cache.dir
-/home/sushant/main/project/price_tracker/build/CMakeFiles/rebuild_cache.dir
