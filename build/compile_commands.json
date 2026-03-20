@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/sushant/main/project/price_tracker/build",
+  "command": "/usr/bin/c++  -I/home/sushant/main/project/price_tracker/inc -g -std=gnu++17 -o CMakeFiles/pt.dir/src/listener/client.cpp.o -c /home/sushant/main/project/price_tracker/src/listener/client.cpp",
+  "file": "/home/sushant/main/project/price_tracker/src/listener/client.cpp",
+  "output": "CMakeFiles/pt.dir/src/listener/client.cpp.o"
+},
+{
+  "directory": "/home/sushant/main/project/price_tracker/build",
+  "command": "/usr/bin/c++  -I/home/sushant/main/project/price_tracker/inc -g -std=gnu++17 -o CMakeFiles/pt.dir/src/main.cpp.o -c /home/sushant/main/project/price_tracker/src/main.cpp",
+  "file": "/home/sushant/main/project/price_tracker/src/main.cpp",
+  "output": "CMakeFiles/pt.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/sushant/main/project/price_tracker/build",
+  "command": "/usr/bin/c++  -I/home/sushant/main/project/price_tracker/inc -g -std=gnu++17 -o CMakeFiles/pt.dir/src/tracker/track.cpp.o -c /home/sushant/main/project/price_tracker/src/tracker/track.cpp",
+  "file": "/home/sushant/main/project/price_tracker/src/tracker/track.cpp",
+  "output": "CMakeFiles/pt.dir/src/tracker/track.cpp.o"
+},
+{
+  "directory": "/home/sushant/main/project/price_tracker/build",
+  "command": "/usr/bin/c++  -I/home/sushant/main/project/price_tracker/inc -g -std=gnu++17 -o CMakeFiles/send.dir/misc/sender.cpp.o -c /home/sushant/main/project/price_tracker/misc/sender.cpp",
+  "file": "/home/sushant/main/project/price_tracker/misc/sender.cpp",
+  "output": "CMakeFiles/send.dir/misc/sender.cpp.o"
+}
+]

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/send.dir/misc/sender.cpp.o -o send 
